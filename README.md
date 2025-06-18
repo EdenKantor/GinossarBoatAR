@@ -55,7 +55,7 @@ If you are a reviewer or instructor, you have been invited to view the project v
 ## 📷 Marker Image
 
 Use the following marker to trigger the AR experience:  
-![Ginosar Marker](Documentation/GinosarMarker.jpg)
+![GinossarBoat](GinossarBoat.png)
 
 You may also print or display this marker on another screen.
 
