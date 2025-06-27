@@ -29,7 +29,7 @@ If you are a reviewer or instructor, you have been invited to view the project v
 ### ✅ Option: Download and Install APK
 
 1. Download the latest APK build:  
-   👉 [Unity Cloud Build - Download APK](https://your-unity-cloud-link.com) *(replace with actual link)*
+   👉 [Unity Cloud Build - Download APK]([https://your-unity-cloud-link.com](https://cloud.unity.com/public-share/build-automation/share?shareId=Wax9gDiWzMBTPxRrJk0XxKv4CH1xo6W7PDsbow1O4nw))
 2. Transfer the APK to your Android device.
 3. Open and install the app (you may need to enable installation from unknown sources).
 4. Allow camera permissions when prompted.
@@ -37,6 +37,10 @@ If you are a reviewer or instructor, you have been invited to view the project v
 ---
 
 ## ▶️ How to Use the App
+
+**🌐 Language Selection:**  
+At the top of the home screen, choose between **עברית (Hebrew)** or **English**.  
+All texts, buttons, and subtitles in the app will adapt based on your selected language.
 
 1. Launch the app – an introductory video and narration will appear.
 2. Tap the **Start Experience** button.
@@ -84,7 +88,7 @@ You may also print or display this marker on another screen.
 - 🔗 Source Code (Unity Version Control – Plastic SCM):  
   Access via Unity DevOps Dashboard (private invite only)
 - 🔗 APK Download (Unity Cloud Build):  
-  [Download APK](https://your-unity-cloud-link.com) *(replace with actual link)*
+  [Download APK]([https://your-unity-cloud-link.com](https://cloud.unity.com/public-share/build-automation/share?shareId=Wax9gDiWzMBTPxRrJk0XxKv4CH1xo6W7PDsbow1O4nw))
 
 ---
 
