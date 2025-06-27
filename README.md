@@ -65,6 +65,13 @@ You may also print or display this marker on another screen.
 
 ---
 
+## 🎥 Demo Video
+
+Watch a short video showcasing the app experience:  
+▶️ [Ginosar Boat AR – YouTube Demo](https://youtu.be/pYSJcdPLsd4?si=Fv46IvaKnk7kZ0Gu)
+
+---
+
 ## 🗂 Highlights
 
 - ✅ Unity AR Foundation with image tracking
@@ -89,6 +96,8 @@ You may also print or display this marker on another screen.
   Access via Unity DevOps Dashboard (private invite only)
 - 🔗 APK Download (Unity Cloud Build):  
   [Download APK](https://cloud.unity.com/public-share/build-automation/share?shareId=Wax9gDiWzMBTPxRrJk0XxKv4CH1xo6W7PDsbow1O4nw)
+- 🔗 Demo Video (YouTube):  
+  [Watch on YouTube](https://youtu.be/pYSJcdPLsd4?si=Fv46IvaKnk7kZ0Gu)
 
 ---
 
