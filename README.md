@@ -29,7 +29,7 @@ If you are a reviewer or instructor, you have been invited to view the project v
 ### ✅ Option: Download and Install APK
 
 1. Download the latest APK build:  
-   👉 [Unity Cloud Build - Download APK]([https://your-unity-cloud-link.com](https://cloud.unity.com/public-share/build-automation/share?shareId=Wax9gDiWzMBTPxRrJk0XxKv4CH1xo6W7PDsbow1O4nw))
+  👉 [Unity Cloud Build - Download APK](https://cloud.unity.com/public-share/build-automation/share?shareId=Wax9gDiWzMBTPxRrJk0XxKv4CH1xo6W7PDsbow1O4nw)
 2. Transfer the APK to your Android device.
 3. Open and install the app (you may need to enable installation from unknown sources).
 4. Allow camera permissions when prompted.
@@ -88,7 +88,7 @@ You may also print or display this marker on another screen.
 - 🔗 Source Code (Unity Version Control – Plastic SCM):  
   Access via Unity DevOps Dashboard (private invite only)
 - 🔗 APK Download (Unity Cloud Build):  
-  [Download APK]([https://your-unity-cloud-link.com](https://cloud.unity.com/public-share/build-automation/share?shareId=Wax9gDiWzMBTPxRrJk0XxKv4CH1xo6W7PDsbow1O4nw))
+  [Download APK](https://cloud.unity.com/public-share/build-automation/share?shareId=Wax9gDiWzMBTPxRrJk0XxKv4CH1xo6W7PDsbow1O4nw)
 
 ---
 
